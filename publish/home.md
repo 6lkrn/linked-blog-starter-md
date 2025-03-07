@@ -1,29 +1,12 @@
 ---
-title: "An Extendable Obsidian Publish alternative using Next.JS"
+title: "THE WITCH TO END ALL WITCHES"
 excerpt: "Create your own template or use someone else's. Changing the template is a matter of updating one line"
 ---
 
-HELLO WORLD
+# Mother Night
 
-Publish your Obsidian Notes with a highly customizable Next.JS blog starter template. Features:
-- Supports most Obsidian syntax (e.g. Link Previews,  Links, etc.). Uses [obsidian-export](https://github.com/zoni/obsidian-export).
-- URLs are based on folder structure
-- Backlinks can be added outside of the markdown files (using the [PreviewLink](https://github.com/matthewwong525/linked-blog-starter/blob/main/components/misc/preview-link.tsx) component)
-- Full-text search
+## Witches of [[Mother Night]] 
 
-## [[how-linked-blog-starter-works|How it works]]
-![[how-linked-blog-starter-works]]
+While the good-hearted worshippers of Barovia keep the faith of the [[Morninglord]] alive, other, darker individuals seek the power and favor of [[Mother Night]] instead. Chief among them is Baba Lysaga, the Witch of Berez, who has fostered a coven of fellow devotees by recruiting outcasts and exiles from the settlements of Barovia. The maddened Lysaga views these practitioners as her children, and teaches them to secretly consider themselves the younger siblings of Strahd—sworn to protect and obey him for eternity. 
 
-## Getting Started
-### [[home|Demo]]
-Additionally, you can deploy the example using [Vercel](https://vercel.com/new/git/external?repository-url=https://github.com/matthewwong525/linked-blog-starter&project-name=linked-blog-starter&repository-name=linked-blog-starter) or preview live with [StackBlitz](https://stackblitz.com/github/matthewwong525/linked-blog-starter)
-
-### [[publish-your-obsidian-notes-with-linked-blog-starter|Publish your Obsidian Vault]]
-Click the link above to find out how to publish your own notes!
-
-### [[deploy-a-custom-linked-blog-starter|Customize this template]]
-Here is an example of how I [forked this repo](https://github.com/fleetingnotes/fleeting-notes-website) to create a landing page for [Fleeting Notes](https://www.fleetingnotes.app/).
-
-![[fn-website-demo.gif]]
-
-
+These witches are largely as described in Barovian Witch (p. 229), though their pacts are forged with [[Mother Night]] instead of Strahd and the Dark Powers. Those sent to Ravenloft serve at the pleasure of Ludmilla Vilisevic, Strahd’s magic-minded consort, though none forget that their true loyalty is owed to [[Baba Lysaga]] of the swamp—and, above her, to Strahd himself. 
